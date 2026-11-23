@@ -1,7 +1,7 @@
 theme: minima
 # --- 站点基本信息 ---
 title: "二号路杂货铺"
-description: "分享日常心得与生活随笔的个人博客。"
+#description: "分享日常心得与生活随笔的个人博客。"
 lang: zh-CN
 timezone: Asia/Shanghai
 encoding: utf-8
