@@ -1,44 +1,12 @@
+theme: minima
 # --- 站点基本信息 ---
 title: "二号路杂货铺"
-subtitle: "记录技术折腾与日常思考"
 description: "分享日常心得与生活随笔的个人博客。"
 lang: zh-CN
 timezone: Asia/Shanghai
 encoding: utf-8
 
-# --- 站点网址与路径（如部署在 https://<username>.github.io/<repo>/ 需填写 baseurl）---
-url: "https://erhaolu.github.io"
-baseurl: "" # 若是项目仓库而非 <username>.github.io，则填 "/仓库名"，例如 "/my-blog"
 
-# --- 作者信息 ---
-#author:
-#  name: "三橱"
-#  email: "your-email@example.com"
 
-# --- 主题与插件（GitHub Pages 默认环境）---
-theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
 
-# --- 文章链接与分页设置 ---
-permalink: /:year/:month/:day/:title/
-paginate: 10
-paginate_path: "/page:num/"
 
-# --- Markdown 渲染与代码高亮 ---
-markdown: kramdown
-highlighter: rouge
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-
-# --- 构建时忽略的文件或目录 ---
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
