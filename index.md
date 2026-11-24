@@ -1,4 +1,4 @@
 ---
 layout: home
-list_title: 最新文章列表
+list_title: new posts
 ---
