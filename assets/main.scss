@@ -44,3 +44,8 @@
   font-weight: 400;     /* 可选：取消粗体，使视觉更柔和 */
   margin-bottom: 12px;  /* 可选：适当缩小与下方第一篇文章的间距 */
 }
+
+/* 仅隐藏首页（Posts）顶部的重复大标题 */
+.home .page-heading {
+  display: none;
+}
