@@ -3,9 +3,10 @@ title: "二号路杂货铺"
 description: "分享日常心得与生活随笔的个人博客。"
 show_excerpts: true
 theme: minima
-minima:
-  social_links:
-    - { platform: github, user_url: "https://github.com" }
+author:
+  name: 二号路杂货铺主理人
+  email: caoht.cn@gmail.com
+github_username: erhaolu
 
 
 
