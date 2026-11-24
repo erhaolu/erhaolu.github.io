@@ -1,4 +1,6 @@
-theme: primer
+remote_theme: pages-themes/primer@v0.6.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 # --- 站点基本信息 ---
 title: "二号路杂货铺"
 #description: "分享日常心得与生活随笔的个人博客。"
