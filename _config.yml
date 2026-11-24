@@ -1,5 +1,6 @@
 # --- 站点基本信息 ---
 title: "二号路杂货铺"
+header_title: "Welcome to 二号路杂货铺"
 description: ""
 permalink: /posts/:year-:month-:day-:title.html
 # minima 主题设置
