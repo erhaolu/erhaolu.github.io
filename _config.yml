@@ -7,7 +7,7 @@ permalink: /posts/:year-:month-:day-:title.html
 theme: minima
 show_excerpts: true
 author: © 2026 二号路杂货铺
-github_username: erhaolu
+#github_username: erhaolu
 
 header_pages:
   - index.md
