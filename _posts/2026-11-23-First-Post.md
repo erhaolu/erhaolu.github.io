@@ -2,7 +2,7 @@
 layout: post
 title: "github 新账号"
 #date: 2026-11-23 16:15:20
-categories: 随笔
+#categories: 随笔
 ---
 
 上一个 github 账号因为换设备无法二次验证登录，只好丢弃。
