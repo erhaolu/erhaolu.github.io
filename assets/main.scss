@@ -10,6 +10,25 @@
 .footer-heading {
   display: none;
 }
+/* 调低 footer 的整体高度 */
+.site-footer {
+  padding: 15px 0; /* 默认是 30px 0，数值越小越紧凑（如 12px 或 10px） */
+}
+
+/* 清除页脚内部元素的多余底部留白 */
+.footer-col-wrapper {
+  margin-bottom: 0;
+}
+
+.footer-col {
+  margin-bottom: 0;
+}
+
+.site-footer p,
+.contact-list,
+.social-media-list {
+  margin-bottom: 0;
+}
 
 /* 调整首页列表标题：字号变小、颜色变浅 */
 .post-list-heading {
