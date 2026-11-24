@@ -3,6 +3,13 @@
 
 @import "minima";
 
+/* 将左上角 .site-title 设置为纯黑色并加粗 */
+.site-title,
+.site-title:visited {
+  color: #000000;
+  font-weight: bold; /* 或使用 bold */
+}
+
 /* 隐藏 RSS 订阅链接 */
 .rss-subscribe {
   display: none;
