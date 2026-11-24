@@ -3,15 +3,20 @@
 
 @import "minima";
 
+/* 将顶部边框从默认深灰改为与 .site-title 呼应的蓝色 */
+.site-header {
+  border-top: 3px solid #1E90FF;
+}
+
 /* 将左上角 .site-title 设置为纯黑色并加粗 */
 .site-title,
 .site-title:visited {
-  color: #1d4ed8;
+  color: #2563eb;
   font-weight: bold; /* 或使用 bold */
 }
 /* 鼠标悬停时颜色略微加深，并去掉默认下划线 */
 .site-title:hover {
-  color: #1e3a8a;
+  color: #2563eb;
   text-decoration: none;
 }
 
