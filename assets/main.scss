@@ -6,8 +6,13 @@
 /* 将左上角 .site-title 设置为纯黑色并加粗 */
 .site-title,
 .site-title:visited {
-  color: #000000;
+  color: #1d4ed8;
   font-weight: bold; /* 或使用 bold */
+}
+/* 鼠标悬停时颜色略微加深，并去掉默认下划线 */
+.site-title:hover {
+  color: #1e3a8a;
+  text-decoration: none;
 }
 
 /* 隐藏 RSS 订阅链接 */
