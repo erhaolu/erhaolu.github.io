@@ -1,11 +1,11 @@
 # --- 站点基本信息 ---
 title: "二号路杂货铺"
 description: "分享日常心得与生活随笔的个人博客。"
-show_excerpts: true
+# minima 主题设置
 theme: minima
-author:
-  name: 二号路杂货铺主理人
-  email: caoht.cn@gmail.com
+show_excerpts: true
+author: 二号路杂货铺主理人
+email: caoht.cn@gmail.com
 github_username: erhaolu
 
 
