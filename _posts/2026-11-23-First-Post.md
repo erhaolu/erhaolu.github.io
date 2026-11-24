@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "POST-TITLE"
-date: 2026-11-23 16:15:20 -0000
+title: "github 新账号"
+date: 2026-11-23 16:15:20
 categories: CATEGORY-1 CATEGORY-2
 ---
 
