@@ -9,7 +9,10 @@ show_excerpts: true
 author: © 2026 二号路杂货铺
 github_username: erhaolu
 
-
+header_pages:
+  - index.md
+  - tags.md
+  - about.md
 
 
 
