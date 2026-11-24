@@ -1,7 +1,7 @@
 # --- 站点基本信息 ---
 title: "二号路杂货铺"
 description: "分享日常心得与生活随笔的个人博客。"
-permalink: /posts/:title.html
+permalink: /posts/:year-:month-:day-:title.html
 # minima 主题设置
 theme: minima
 show_excerpts: true
