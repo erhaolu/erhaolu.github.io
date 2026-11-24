@@ -1,0 +1,17 @@
+---
+---
+
+@import "minima";
+
+/* 隐藏 RSS 订阅链接 */
+.rss-subscribe {
+  display: none;
+}
+
+/* 调整首页列表标题：字号变小、颜色变浅 */
+.post-list-heading {
+  font-size: 18px;      /* 默认约为 28px，可按需调整为 16px ~ 20px */
+  color: #828282;       /* Minima 默认的浅灰色（与日期文字同色） */
+  font-weight: 400;     /* 可选：取消粗体，使视觉更柔和 */
+  margin-bottom: 12px;  /* 可选：适当缩小与下方第一篇文章的间距 */
+}
