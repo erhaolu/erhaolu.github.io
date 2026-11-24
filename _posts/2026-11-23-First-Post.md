@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "github 新账号"
+title: "Github 新账号"
 tags: github
 ---
 
