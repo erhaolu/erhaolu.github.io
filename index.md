@@ -1,4 +1,4 @@
 ---
 layout: home
-list_title: new posts
+list_title: ""
 ---
