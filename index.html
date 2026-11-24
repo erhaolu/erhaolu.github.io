@@ -4,16 +4,16 @@ layout: default
 
 <div class="home">
 
-  <h5 class="page-heading">Welcome to 二号路杂货铺</h5>
+  <p>Welcome to 二号路杂货铺</p>
 
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+        <p> 这是正题 </p>
       </li>
     {% endfor %}
   </ul>
